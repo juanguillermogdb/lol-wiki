@@ -1,4 +1,4 @@
-import type { Champion } from '../types/Champion';
+import type { Champion } from '../types/champion-temp';
 
 export const MOCK_CHAMPIONS: Champion[] = [
     {
