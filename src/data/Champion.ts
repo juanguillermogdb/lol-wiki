@@ -296,6 +296,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         imagen: ''
     },
     {
+        id: 'Graves',
+        nombre: 'Graves',
+        roles: ['Tirador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Gwen',
+        nombre: 'Gwen',
+        roles: ['Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    // Letra H
+    {
         id: 'LeeSin',
         nombre: 'Lee Sin',
         roles: ['Asesino', 'Luchador'],
