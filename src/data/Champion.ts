@@ -311,6 +311,199 @@ export const MOCK_CHAMPIONS: Champion[] = [
     },
     // Letra H
     {
+        id: 'Hecarim',
+        nombre: 'Hecarim',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Heimerdinger',
+        nombre: 'Heimerdinger',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Hwei',
+        nombre: 'Hwei',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    // Letra I
+    {
+        id: 'Illaoi',
+        nombre: 'Illaoi',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Irelia',
+        nombre: 'Irelia',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['MID', 'TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Ivern',
+        nombre: 'Ivern',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    // Letra J
+    {
+        id: 'Janna',
+        nombre: 'Janna',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'JarvanIV',
+        nombre: 'Jarvan IV',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Jax',
+        nombre: 'Jax',
+        roles: ['Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Jayce',
+        nombre: 'Jayce',
+        roles: ['Luchador', 'Tirador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Jhin',
+        nombre: 'Jhin',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Jinx',
+        nombre: 'Jinx',
+        roles: ['Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    // Letra K
+    {
+        id: 'Kaisa',
+        nombre: "Kai'Sa",
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Kalista',
+        nombre: "Kalista",
+        roles: ['Tairador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Karma',
+        nombre: "Karma",
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Karthus',
+        nombre: "Karthus",
+        roles: ['Mago'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Kassadin',
+        nombre: "Kassadin",
+        roles: ['Asesino', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Katarina',
+        nombre: "Katarina",
+        roles: ['Asesino', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Kayle',
+        nombre: "Kayle",
+        roles: ['Mago', 'Tirador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Kayn',
+        nombre: "Kayn",
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Kennen',
+        nombre: "Kennen",
+        roles: ['Mago'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Khazix',
+        nombre: "Kha'Zix",
+        roles: ['Asesino'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Kindred',
+        nombre: "Kindred",
+        roles: ['Tirador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Kled',
+        nombre: "Kled",
+        roles: ['Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Kogmaw',
+        nombre: "Kog'Maw",
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Ksante',
+        nombre: "K'Sante",
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    // Letra L
+    {
+        id: 'Leblanc',
+        nombre: "LeBlanc",
+        roles: ['Asesino', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
         id: 'LeeSin',
         nombre: 'Lee Sin',
         roles: ['Asesino', 'Luchador'],
