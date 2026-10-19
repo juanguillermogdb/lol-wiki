@@ -509,5 +509,190 @@ export const MOCK_CHAMPIONS: Champion[] = [
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
         imagen: ''
-    }
+    },
+    {
+        id: 'Leona',
+        nombre: "Leona",
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Lillia',
+        nombre: "Lillia",
+        roles: ['Luchador', 'Mago'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    }, 
+    {
+        id: 'Lissandra',
+        nombre: "Lissandra",
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Locke',
+        nombre: "Locke",
+        roles: ['Asesino','Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Lucian',
+        nombre: 'Lucian',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Lulu',
+        nombre: "Lulu",
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Lux',
+        nombre: 'Lux',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['MID', 'SUPP'],
+        imagen: ''
+    },
+    // Letra M
+    {
+        id: 'Maestroyi',
+        nombre: 'Maestro Yi',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Malphite',
+        nombre: 'Malphite',
+        roles: ['Mago', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Malzahar',
+        nombre: 'Malzahar',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Maokai',
+        nombre: 'Maokai',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Mel',
+        nombre: 'Mel',
+        roles: ['Apoyo','Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Milio',
+        nombre: 'Milio',
+        roles: ['Apoyo','Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Missfortune',
+        nombre: 'Miss Fortune',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Mordekaiser',
+        nombre: 'Mordekaiser',
+        roles: ['Luchador', 'Mago'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Morgana',
+        nombre: 'Morgana',
+        roles: ['Apoyo','Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    // Letra N
+    {
+        id: 'Naafiri',
+        nombre: 'Naafiri',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Nami',
+        nombre: 'Nami',
+        roles: ['Apoyo','Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Nasus',
+        nombre: 'Nasus',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Nautilus',
+        nombre: 'Nautilus',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Neeko',
+        nombre: 'Neeko',
+        roles: ['Apoyo','Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Nidalee',
+        nombre: 'Nidalee',
+        roles: ['Asesino', 'Mago'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Nilah',
+        nombre: 'Nilah',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Nocturne',
+        nombre: 'Nocturne',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Nunu',
+        nombre: 'Nunu y Willump',
+        roles: ['Mago', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    // Letra O
+    {
+        id: 'Olaf',
+        nombre: 'Olaf',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
 ];
