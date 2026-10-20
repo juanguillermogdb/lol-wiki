@@ -695,4 +695,254 @@ export const MOCK_CHAMPIONS: Champion[] = [
         lineas: ['TOP'],
         imagen: ''
     },
+    {
+        id: 'Orianna',
+        nombre: 'Orianna',
+        roles: ['Apoyo','Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Ornn',
+        nombre: 'Ornn',
+        roles: ['Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    // Letra P
+    {
+        id: 'Pantheon',
+        nombre: 'Pantheon',
+        roles: ['Asesino','Luchador'],
+        lineas: ['TOP', 'SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Poppy',
+        nombre: 'Poppy',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Pyke',
+        nombre: 'Pyke',
+        roles: ['Apoyo', 'Asesino'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    // Letra Q
+    {
+        id: 'Qiyana',
+        nombre: 'Qiyana',
+        roles: ['Asesino'],
+        lineas: ['JUNGLE', 'MID'],
+        imagen: ''
+    },
+    {
+        id: 'Quinn',
+        nombre: 'Quinn',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    // Letra R
+    {
+        id: 'Rakan',
+        nombre: 'Rakan',
+        roles: ['Apoyo'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Rammus',
+        nombre: 'Rammus',
+        roles: ['Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Reksai',
+        nombre: "Rek'Sai",
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Rell',
+        nombre: 'Rell',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Renataglasc',
+        nombre: 'Renata Glasc',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Renekton',
+        nombre: 'Renekton',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Rengar',
+        nombre: 'Rengar',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Riven',
+        nombre: 'Riven',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Rumble',
+        nombre: 'Rumble',
+        roles: ['Luchador', 'Mago'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Ryze',
+        nombre: 'Ryze',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    // Letra S
+    {
+        id: 'Samira',
+        nombre: 'Samira',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Sejuani',
+        nombre: 'Sejuani',
+        roles: ['Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Senna',
+        nombre: 'Senna',
+        roles: ['Apoyo', 'Tirador'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Seraphine',
+        nombre: 'Seraphine',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Sett',
+        nombre: 'Sett',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Shaco',
+        nombre: 'Shaco',
+        roles: ['Asesino'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Shen',
+        nombre: 'Shen',
+        roles: ['Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Shyvana',
+        nombre: 'Shyvana',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Singed',
+        nombre: 'Singed',
+        roles: ['Mago', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Sion',
+        nombre: 'Sion',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Sivir',
+        nombre: 'Sivir',
+        roles: ['Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Skarner',
+        nombre: 'Skarner',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Smolder',
+        nombre: 'Smolder',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Sona',
+        nombre: 'Sona',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Soraka',
+        nombre: 'Soraka',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Swain',
+        nombre: 'Swain',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Sylas',
+        nombre: 'Sylas',
+        roles: ['Asesino', 'Mago'],
+        lineas: ['JUNGLE', 'MID'],
+        imagen: ''
+    },
+    {
+        id: 'Syndra',
+        nombre: 'Syndra',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    // Letra T
 ];
