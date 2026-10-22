@@ -945,4 +945,297 @@ export const MOCK_CHAMPIONS: Champion[] = [
         imagen: ''
     },
     // Letra T
+    {
+        id: 'TahmKench',
+        nombre: 'Tahm Kench',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['TOP', 'SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Taliyah',
+        nombre: 'Taliyah',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Talon',
+        nombre: 'Talon',
+        roles: ['Asesino'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Taric',
+        nombre: 'Taric',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Teemo',
+        nombre: 'Teemo',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Thresh',
+        nombre: 'Thresh',
+        roles: ['Apoyo', 'Tanque'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Tristana',
+        nombre: 'Tristana',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Trundle',
+        nombre: 'Trundle',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Tryndamere',
+        nombre: 'Tryndamere',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'TwistedFate',
+        nombre: 'Twisted Fate',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Twitch',
+        nombre: 'Twitch',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    // Letra U
+    {
+        id: 'Udyr',
+        nombre: 'Udyr',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Urgot',
+        nombre: 'Urgot',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    // Letra V
+    {
+        id: 'Varus',
+        nombre: 'Varus',
+        roles: ['Mago', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Vayne',
+        nombre: 'Vayne',
+        roles: ['Asesino', 'Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Veigar',
+        nombre: 'Veigar',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Velkoz',
+        nombre: "Vel'Koz",
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Vex',
+        nombre: 'Vex',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Vi',
+        nombre: 'Vi',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Viego',
+        nombre: 'Viego',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Viktor',
+        nombre: 'Viktor',
+        roles: ['Mago'],
+        lineas: ['MID', 'ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Vladimir',
+        nombre: 'Vladimir',
+        roles: ['Luchador', 'Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Volibear',
+        nombre: 'Volibear',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    // Letra W
+    {
+        id: 'Warwick',
+        nombre: 'Warwick',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Wukong',
+        nombre: 'Wukong',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    // Letra X
+    {
+        id: 'Xayah',
+        nombre: 'Xayah',
+        roles: ['Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Xerath',
+        nombre: 'Xerath',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['MID', 'SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'XinZhao',
+        nombre: 'Xin Zhao',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    // Letra Y
+    {
+        id: 'Yasuo',
+        nombre: 'Yasuo',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['ADC', 'MID', 'TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Yone',
+        nombre: 'Yone',
+        roles: ['Asesino', 'Luchador'],
+        lineas: ['MID', 'TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Yorick',
+        nombre: 'Yorick',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Yunara',
+        nombre: 'Yunara',
+        roles: ['Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Yuumi',
+        nombre: 'Yuumi',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    // Letra Z
+    {
+        id: 'Zaahen',
+        nombre: 'Zaahen',
+        roles: ['Luchador'],
+        lineas: ['TOP'],
+        imagen: ''
+    },
+    {
+        id: 'Zac',
+        nombre: 'Zac',
+        roles: ['Luchador', 'Tanque'],
+        lineas: ['JUNGLE'],
+        imagen: ''
+    },
+    {
+        id: 'Zed',
+        nombre: 'Zed',
+        roles: ['Asesino'],
+        lineas: ['JUNGLE', 'MID'],
+        imagen: ''
+    },
+    {
+        id: 'Zeri',
+        nombre: 'Zeri',
+        roles: ['Tirador'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Ziggs',
+        nombre: 'Ziggs',
+        roles: ['Mago'],
+        lineas: ['ADC'],
+        imagen: ''
+    },
+    {
+        id: 'Zilean',
+        nombre: 'Zilean',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
+    {
+        id: 'Zoe',
+        nombre: 'Zoe',
+        roles: ['Mago'],
+        lineas: ['MID'],
+        imagen: ''
+    },
+    {
+        id: 'Zyra',
+        nombre: 'Zyra',
+        roles: ['Apoyo', 'Mago'],
+        lineas: ['SUPP'],
+        imagen: ''
+    },
 ];
