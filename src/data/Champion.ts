@@ -7,98 +7,98 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Aatrox',
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Aatrox.jpg'
     },
     {
         id: 'Ahri',
         nombre: 'Ahri',
         roles: ['Asesino', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Ahri.jpg'
     },
     {
         id: 'Akali',
         nombre: 'Akali',
         roles: ['Asesino'],
         lineas: ['TOP','MID'],
-        imagen: ''
+        imagen: '/champions/Akali.jpg'
     },
     {
         id: 'Akshan',
         nombre: 'Akshan',
         roles: ['Asesino', 'Tirador'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Akshan.jpg'
     },
     {
         id: 'Alistar',
         nombre: 'Alistar',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Alistar.jpg'
     },
     {
         id: 'Ambessa',
         nombre: 'Ambessa',
         roles: ['Asesino', 'Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Ambessa.jpg'
     },
     {
         id: 'Amumu',
         nombre: 'Amumu',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Aatrox.jpg'
     },
     {
         id: 'Anivia',
         nombre: 'Anivia',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Amumu.jpg'
     },
     {
         id: 'Annie',
         nombre: 'Annie',
         roles: ['Apoyo', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Annie.jpg'
     },
     {
         id: 'Aphelios',
         nombre: 'Aphelios',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Aphelios.jpg'
     },
     {
         id: 'Ashe',
         nombre: 'Ashe',
         roles: ['Apoyo', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Ashe.jpg'
     },
     {
         id: 'AurelionSol',
         nombre: 'Aurelion Sol',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/AurelionSol.jpg'
     },
     {
         id: 'Aurora',
         nombre: 'Aurora',
         roles: ['Asesino', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Aurora.jpg'
     },
     {
         id: 'Azir',
         nombre: 'Azir',
         roles: ['Mago', 'Tirador'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Azir.jpg'
     },
     // Letra B
     {
@@ -106,42 +106,42 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Bardo',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Bardo.jpg'
     },
     {
         id: 'Belveth',
         nombre: "Bel'Veth",
         roles: ['Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Belveth.jpg'
     },
     {
         id: 'Blitzcrank',
         nombre: 'Blitzcrank',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Blitzcrank.jpg'
     },
     {
         id: 'Brand',
         nombre: 'Brand',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Brand.jpg'
     },
     {
         id: 'Braum',
         nombre: 'Braum',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Braum.jpg'
     },
     {
         id: 'Briar',
         nombre: 'Briar',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Briar.jpg'
     },
     // Letra C
     {
@@ -149,35 +149,35 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Caitlyn',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Caitlyn.jpg'
     },
     {
         id: 'Camille',
         nombre: 'Camille',
         roles: ['Asesino', 'Luchador'],
         lineas: ['TOP', 'SUPP'],
-        imagen: ''
+        imagen: '/champions/Camille.jpg'
     },
     {
         id: 'Cassiopeia',
         nombre: 'Cassiopeia',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Cassiopeia.jpg'
     },
     {
         id: 'Chogath',
         nombre: "Cho'Gath",
         roles: ['Mago', 'Tanque'],
         lineas: ['JUNGLE', 'TOP'],
-        imagen: ''
+        imagen: '/champions/Chogath.jpg'
     },
     {
         id: 'Corki',
         nombre: 'Corki',
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Corki.jpg'
     },
     // Letra D
     {
@@ -185,28 +185,28 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Darius',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Darius.jpg'
     },
     {
         id: 'Diana',
         nombre: 'Diana',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE', 'MID'],
-        imagen: ''
+        imagen: '/champions/Diana.jpg'
     },
     {
         id: 'Draven',
         nombre: 'Draven',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Draven.jpg'
     },
     {
         id: 'DrMundo',
         nombre: "Dr. Mundo",
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/DrMundo.jpg'
     },
     // Letra E 
     {
@@ -214,28 +214,28 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Ekko',
         roles: ['Asesino', 'Mago'],
         lineas: ['JUNGLE', 'MID'],
-        imagen: ''
+        imagen: '/champions/Ekko.jpg'
     },
     {
         id: 'Elise',
         nombre: 'Elise',
         roles: ['Asesino', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Elise.jpg'
     },
     {
         id: 'Evelynn',
         nombre: 'Evelynn',
         roles: ['Asesino', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Evelynn.jpg'
     },
     {
         id: 'Ezreal',
         nombre: 'Ezreal',
         roles: ['Mago','Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Ezreal.jpg'
     },
     // Letra F
     {
@@ -243,21 +243,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Fiddlesticks',
         roles: ['Apoyo', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Fiddlesticks.jpg'
     },
     {
         id: 'Fiora',
         nombre: 'Fiora',
         roles: ['Asesino', 'Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Fiora.jpg'
     },
     {
         id: 'Fizz',
         nombre: 'Fizz',
         roles: ['Asesino', 'Luchador'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Fizz.jpg'
     },
     // Letra G
     {
@@ -265,49 +265,49 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Galio',
         roles: ['Mago', 'Tanque'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Galio.jpg'
     },
     {
         id: 'Gangplank',
         nombre: 'Gangplank',
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Gangplank.jpg'
     },
     {
         id: 'Garen',
         nombre: 'Garen',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Garen.jpg'
     },
     {
         id: 'Gnar',
         nombre: 'Gnar',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Gnar.jpg'
     },
     {
         id: 'Gragas',
         nombre: 'Gragas',
         roles: ['Luchador', 'Mago'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Gragas.jpg'
     },
     {
         id: 'Graves',
         nombre: 'Graves',
         roles: ['Tirador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Graves.jpg'
     },
     {
         id: 'Gwen',
         nombre: 'Gwen',
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Gwen.jpg'
     },
     // Letra H
     {
@@ -315,21 +315,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Hecarim',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Hecarim.jpg'
     },
     {
         id: 'Heimerdinger',
         nombre: 'Heimerdinger',
         roles: ['Apoyo', 'Mago'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Heimerdinger.jpg'
     },
     {
         id: 'Hwei',
         nombre: 'Hwei',
         roles: ['Apoyo', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Hwei.jpg'
     },
     // Letra I
     {
@@ -337,21 +337,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Illaoi',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Illaoi.jpg'
     },
     {
         id: 'Irelia',
         nombre: 'Irelia',
         roles: ['Asesino', 'Luchador'],
         lineas: ['MID', 'TOP'],
-        imagen: ''
+        imagen: '/champions/Irelia.jpg'
     },
     {
         id: 'Ivern',
         nombre: 'Ivern',
         roles: ['Apoyo', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Ivern.jpg'
     },
     // Letra J
     {
@@ -359,42 +359,42 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Janna',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Janna.jpg'
     },
     {
         id: 'JarvanIV',
         nombre: 'Jarvan IV',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/JarvanIV.jpg'
     },
     {
         id: 'Jax',
         nombre: 'Jax',
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Jax.jpg'
     },
     {
         id: 'Jayce',
         nombre: 'Jayce',
         roles: ['Luchador', 'Tirador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Jayce.jpg'
     },
     {
         id: 'Jhin',
         nombre: 'Jhin',
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Jhin.jpg'
     },
     {
         id: 'Jinx',
         nombre: 'Jinx',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Jinx.jpg'
     },
     // Letra K
     {
@@ -402,98 +402,98 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: "Kai'Sa",
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Kaisa.jpg'
     },
     {
         id: 'Kalista',
         nombre: "Kalista",
         roles: ['Tairador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Kalista.jpg'
     },
     {
         id: 'Karma',
         nombre: "Karma",
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Karma.jpg'
     },
     {
         id: 'Karthus',
         nombre: "Karthus",
         roles: ['Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Karthus.jpg'
     },
     {
         id: 'Kassadin',
         nombre: "Kassadin",
         roles: ['Asesino', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Kassadin.jpg'
     },
     {
         id: 'Katarina',
         nombre: "Katarina",
         roles: ['Asesino', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Katarina.jpg'
     },
     {
         id: 'Kayle',
         nombre: "Kayle",
         roles: ['Mago', 'Tirador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Kayle.jpg'
     },
     {
         id: 'Kayn',
         nombre: "Kayn",
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Kayn.jpg'
     },
     {
         id: 'Kennen',
         nombre: "Kennen",
         roles: ['Mago'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Kennen.jpg'
     },
     {
         id: 'Khazix',
         nombre: "Kha'Zix",
         roles: ['Asesino'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Khazix.jpg'
     },
     {
         id: 'Kindred',
         nombre: "Kindred",
         roles: ['Tirador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Kindred.jpg'
     },
     {
         id: 'Kled',
         nombre: "Kled",
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Kled.jpg'
     },
     {
-        id: 'Kogmaw',
+        id: 'KogMaw',
         nombre: "Kog'Maw",
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/KogMaw.jpg'
     },
     {
-        id: 'Ksante',
+        id: 'KSante',
         nombre: "K'Sante",
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/KSante.jpg'
     },
     // Letra L
     {
@@ -501,63 +501,63 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: "LeBlanc",
         roles: ['Asesino', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Leblanc.jpg'
     },
     {
         id: 'LeeSin',
         nombre: 'Lee Sin',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/LeeSin.jpg'
     },
     {
         id: 'Leona',
         nombre: "Leona",
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Leona.jpg'
     },
     {
         id: 'Lillia',
         nombre: "Lillia",
         roles: ['Luchador', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Lillia.jpg'
     }, 
     {
         id: 'Lissandra',
         nombre: "Lissandra",
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Lissandra.jpg'
     },
     {
         id: 'Locke',
         nombre: "Locke",
         roles: ['Asesino','Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Locke.jpg'
     },
     {
         id: 'Lucian',
         nombre: 'Lucian',
         roles: ['Asesino', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Lucian.jpg'
     },
     {
         id: 'Lulu',
         nombre: "Lulu",
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Lulu.jpg'
     },
     {
         id: 'Lux',
         nombre: 'Lux',
         roles: ['Apoyo', 'Mago'],
         lineas: ['MID', 'SUPP'],
-        imagen: ''
+        imagen: '/champions/Lux.jpg'
     },
     // Letra M
     {
@@ -565,63 +565,63 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Maestro Yi',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Maestroyi.jpg'
     },
     {
         id: 'Malphite',
         nombre: 'Malphite',
         roles: ['Mago', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Malphite.jpg'
     },
     {
         id: 'Malzahar',
         nombre: 'Malzahar',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Malzahar.jpg'
     },
     {
         id: 'Maokai',
         nombre: 'Maokai',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Maokai.jpg'
     },
     {
         id: 'Mel',
         nombre: 'Mel',
         roles: ['Apoyo','Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Mel.jpg'
     },
     {
         id: 'Milio',
         nombre: 'Milio',
         roles: ['Apoyo','Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Milio.jpg'
     },
     {
-        id: 'Missfortune',
+        id: 'MissFortune',
         nombre: 'Miss Fortune',
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/MissFortune.jpg'
     },
     {
         id: 'Mordekaiser',
         nombre: 'Mordekaiser',
         roles: ['Luchador', 'Mago'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Mordekaiser.jpg'
     },
     {
         id: 'Morgana',
         nombre: 'Morgana',
         roles: ['Apoyo','Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Morgana.jpg'
     },
     // Letra N
     {
@@ -629,63 +629,63 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Naafiri',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Naafiri.jpg'
     },
     {
         id: 'Nami',
         nombre: 'Nami',
         roles: ['Apoyo','Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Nami.jpg'
     },
     {
         id: 'Nasus',
         nombre: 'Nasus',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Nasus.jpg'
     },
     {
         id: 'Nautilus',
         nombre: 'Nautilus',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Nautilus.jpg'
     },
     {
         id: 'Neeko',
         nombre: 'Neeko',
         roles: ['Apoyo','Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Neeko.jpg'
     },
     {
         id: 'Nidalee',
         nombre: 'Nidalee',
         roles: ['Asesino', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Nidalee.jpg'
     },
     {
         id: 'Nilah',
         nombre: 'Nilah',
         roles: ['Asesino', 'Luchador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Nilah.jpg'
     },
     {
         id: 'Nocturne',
         nombre: 'Nocturne',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Nocturne.jpg'
     },
     {
         id: 'Nunu',
         nombre: 'Nunu y Willump',
         roles: ['Mago', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Nunu.jpg'
     },
     // Letra O
     {
@@ -693,21 +693,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Olaf',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Olaf.jpg'
     },
     {
         id: 'Orianna',
         nombre: 'Orianna',
         roles: ['Apoyo','Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Orianna.jpg'
     },
     {
         id: 'Ornn',
         nombre: 'Ornn',
         roles: ['Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Ornn.jpg'
     },
     // Letra P
     {
@@ -715,21 +715,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Pantheon',
         roles: ['Asesino','Luchador'],
         lineas: ['TOP', 'SUPP'],
-        imagen: ''
+        imagen: '/champions/Pantheon.jpg'
     },
     {
         id: 'Poppy',
         nombre: 'Poppy',
         roles: ['Luchador', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Poppy.jpg'
     },
     {
         id: 'Pyke',
         nombre: 'Pyke',
         roles: ['Apoyo', 'Asesino'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Pyke.jpg'
     },
     // Letra Q
     {
@@ -737,14 +737,14 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Qiyana',
         roles: ['Asesino'],
         lineas: ['JUNGLE', 'MID'],
-        imagen: ''
+        imagen: '/champions/Qiyana.jpg'
     },
     {
         id: 'Quinn',
         nombre: 'Quinn',
         roles: ['Asesino', 'Tirador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Quinn.jpg'
     },
     // Letra R
     {
@@ -752,70 +752,70 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Rakan',
         roles: ['Apoyo'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Rakan.jpg'
     },
     {
         id: 'Rammus',
         nombre: 'Rammus',
         roles: ['Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Rammus.jpg'
     },
     {
         id: 'Reksai',
         nombre: "Rek'Sai",
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Reksai.jpg'
     },
     {
         id: 'Rell',
         nombre: 'Rell',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Rell.jpg'
     },
     {
         id: 'Renataglasc',
         nombre: 'Renata Glasc',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Renataglasc.jpg'
     },
     {
         id: 'Renekton',
         nombre: 'Renekton',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Renekton.jpg'
     },
     {
         id: 'Rengar',
         nombre: 'Rengar',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Rengar.jpg'
     },
     {
         id: 'Riven',
         nombre: 'Riven',
         roles: ['Asesino', 'Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Riven.jpg'
     },
     {
         id: 'Rumble',
         nombre: 'Rumble',
         roles: ['Luchador', 'Mago'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Rumble.jpg'
     },
     {
         id: 'Ryze',
         nombre: 'Ryze',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Ryze.jpg'
     },
     // Letra S
     {
@@ -823,126 +823,126 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Samira',
         roles: ['Asesino', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Samira.jpg'
     },
     {
         id: 'Sejuani',
         nombre: 'Sejuani',
         roles: ['Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Sejuani.jpg'
     },
     {
         id: 'Senna',
         nombre: 'Senna',
         roles: ['Apoyo', 'Tirador'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Senna.jpg'
     },
     {
         id: 'Seraphine',
         nombre: 'Seraphine',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Seraphine.jpg'
     },
     {
         id: 'Sett',
         nombre: 'Sett',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Sett.jpg'
     },
     {
         id: 'Shaco',
         nombre: 'Shaco',
         roles: ['Asesino'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Shaco.jpg'
     },
     {
         id: 'Shen',
         nombre: 'Shen',
         roles: ['Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Shen.jpg'
     },
     {
         id: 'Shyvana',
         nombre: 'Shyvana',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Shyvana.jpg'
     },
     {
         id: 'Singed',
         nombre: 'Singed',
         roles: ['Mago', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Singed.jpg'
     },
     {
         id: 'Sion',
         nombre: 'Sion',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Sion.jpg'
     },
     {
         id: 'Sivir',
         nombre: 'Sivir',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Sivir.jpg'
     },
     {
         id: 'Skarner',
         nombre: 'Skarner',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Skarner.jpg'
     },
     {
         id: 'Smolder',
         nombre: 'Smolder',
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Smolder.jpg'
     },
     {
         id: 'Sona',
         nombre: 'Sona',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Sona.jpg'
     },
     {
         id: 'Soraka',
         nombre: 'Soraka',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Soraka.jpg'
     },
     {
         id: 'Swain',
         nombre: 'Swain',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Swain.jpg'
     },
     {
         id: 'Sylas',
         nombre: 'Sylas',
         roles: ['Asesino', 'Mago'],
         lineas: ['JUNGLE', 'MID'],
-        imagen: ''
+        imagen: '/champions/Sylas.jpg'
     },
     {
         id: 'Syndra',
         nombre: 'Syndra',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Syndra.jpg'
     },
     // Letra T
     {
@@ -950,77 +950,77 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Tahm Kench',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['TOP', 'SUPP'],
-        imagen: ''
+        imagen: '/champions/TahmKench.jpg'
     },
     {
         id: 'Taliyah',
         nombre: 'Taliyah',
         roles: ['Apoyo', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Taliyah.jpg'
     },
     {
         id: 'Talon',
         nombre: 'Talon',
         roles: ['Asesino'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Talon.jpg'
     },
     {
         id: 'Taric',
         nombre: 'Taric',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Taric.jpg'
     },
     {
         id: 'Teemo',
         nombre: 'Teemo',
         roles: ['Mago', 'Tirador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Teemo.jpg'
     },
     {
         id: 'Thresh',
         nombre: 'Thresh',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Thresh.jpg'
     },
     {
         id: 'Tristana',
         nombre: 'Tristana',
         roles: ['Asesino', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Tristana.jpg'
     },
     {
         id: 'Trundle',
         nombre: 'Trundle',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Trundle.jpg'
     },
     {
         id: 'Tryndamere',
         nombre: 'Tryndamere',
         roles: ['Asesino', 'Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Tryndamere.jpg'
     },
     {
         id: 'TwistedFate',
         nombre: 'Twisted Fate',
         roles: ['Mago', 'Tirador'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/TwistedFate.jpg'
     },
     {
         id: 'Twitch',
         nombre: 'Twitch',
         roles: ['Asesino', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Twitch.jpg'
     },
     // Letra U
     {
@@ -1028,14 +1028,14 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Udyr',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Udyr.jpg'
     },
     {
         id: 'Urgot',
         nombre: 'Urgot',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Urgot.jpg'
     },
     // Letra V
     {
@@ -1043,70 +1043,70 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Varus',
         roles: ['Mago', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Varus.jpg'
     },
     {
         id: 'Vayne',
         nombre: 'Vayne',
         roles: ['Asesino', 'Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Vayne.jpg'
     },
     {
         id: 'Veigar',
         nombre: 'Veigar',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Veigar.jpg'
     },
     {
         id: 'Velkoz',
         nombre: "Vel'Koz",
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Velkoz.jpg'
     },
     {
         id: 'Vex',
         nombre: 'Vex',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Vex.jpg'
     },
     {
         id: 'Vi',
         nombre: 'Vi',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Vi.jpg'
     },
     {
         id: 'Viego',
         nombre: 'Viego',
         roles: ['Asesino', 'Luchador'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Viego.jpg'
     },
     {
         id: 'Viktor',
         nombre: 'Viktor',
         roles: ['Mago'],
         lineas: ['MID', 'ADC'],
-        imagen: ''
+        imagen: '/champions/Viktor.jpg'
     },
     {
         id: 'Vladimir',
         nombre: 'Vladimir',
         roles: ['Luchador', 'Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Vladimir.jpg'
     },
     {
         id: 'Volibear',
         nombre: 'Volibear',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Volibear.jpg'
     },
     // Letra W
     {
@@ -1114,14 +1114,14 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Warwick',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Warwick.jpg'
     },
     {
         id: 'Wukong',
         nombre: 'Wukong',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Wukong.jpg'
     },
     // Letra X
     {
@@ -1129,21 +1129,21 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Xayah',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Xayah.jpg'
     },
     {
         id: 'Xerath',
         nombre: 'Xerath',
         roles: ['Apoyo', 'Mago'],
         lineas: ['MID', 'SUPP'],
-        imagen: ''
+        imagen: '/champions/Xerath.jpg'
     },
     {
         id: 'XinZhao',
         nombre: 'Xin Zhao',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/XinZhao.jpg'
     },
     // Letra Y
     {
@@ -1151,35 +1151,35 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Yasuo',
         roles: ['Asesino', 'Luchador'],
         lineas: ['ADC', 'MID', 'TOP'],
-        imagen: ''
+        imagen: '/champions/Yasuo.jpg'
     },
     {
         id: 'Yone',
         nombre: 'Yone',
         roles: ['Asesino', 'Luchador'],
         lineas: ['MID', 'TOP'],
-        imagen: ''
+        imagen: '/champions/Yone.jpg'
     },
     {
         id: 'Yorick',
         nombre: 'Yorick',
         roles: ['Luchador', 'Tanque'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Yorick.jpg'
     },
     {
         id: 'Yunara',
         nombre: 'Yunara',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Yunara.jpg'
     },
     {
         id: 'Yuumi',
         nombre: 'Yuumi',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Yuumi.jpg'
     },
     // Letra Z
     {
@@ -1187,55 +1187,55 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Zaahen',
         roles: ['Luchador'],
         lineas: ['TOP'],
-        imagen: ''
+        imagen: '/champions/Zaahen.jpg'
     },
     {
         id: 'Zac',
         nombre: 'Zac',
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: ''
+        imagen: '/champions/Zac.jpg'
     },
     {
         id: 'Zed',
         nombre: 'Zed',
         roles: ['Asesino'],
         lineas: ['JUNGLE', 'MID'],
-        imagen: ''
+        imagen: '/champions/Zed.jpg'
     },
     {
         id: 'Zeri',
         nombre: 'Zeri',
         roles: ['Tirador'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Zeri.jpg'
     },
     {
         id: 'Ziggs',
         nombre: 'Ziggs',
         roles: ['Mago'],
         lineas: ['ADC'],
-        imagen: ''
+        imagen: '/champions/Ziggs.jpg'
     },
     {
         id: 'Zilean',
         nombre: 'Zilean',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Zilean.jpg'
     },
     {
         id: 'Zoe',
         nombre: 'Zoe',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: ''
+        imagen: '/champions/Zoe.jpg'
     },
     {
         id: 'Zyra',
         nombre: 'Zyra',
         roles: ['Apoyo', 'Mago'],
         lineas: ['SUPP'],
-        imagen: ''
+        imagen: '/champions/Zyra.jpg'
     },
 ];
