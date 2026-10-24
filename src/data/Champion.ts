@@ -49,14 +49,14 @@ export const MOCK_CHAMPIONS: Champion[] = [
         nombre: 'Amumu',
         roles: ['Apoyo', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: '/champions/Aatrox.jpg'
+        imagen: '/champions/Amumu.jpg'
     },
     {
         id: 'Anivia',
         nombre: 'Anivia',
         roles: ['Mago'],
         lineas: ['MID'],
-        imagen: '/champions/Amumu.jpg'
+        imagen: '/champions/Anivia.jpg'
     },
     {
         id: 'Annie',
@@ -239,11 +239,11 @@ export const MOCK_CHAMPIONS: Champion[] = [
     },
     // Letra F
     {
-        id: 'Fiddlesticks',
+        id: 'FiddleSticks',
         nombre: 'Fiddlesticks',
         roles: ['Apoyo', 'Mago'],
         lineas: ['JUNGLE'],
-        imagen: '/champions/Fiddlesticks.jpg'
+        imagen: '/champions/FiddleSticks.jpg'
     },
     {
         id: 'Fiora',
@@ -762,11 +762,11 @@ export const MOCK_CHAMPIONS: Champion[] = [
         imagen: '/champions/Rammus.jpg'
     },
     {
-        id: 'Reksai',
+        id: 'RekSai',
         nombre: "Rek'Sai",
         roles: ['Luchador', 'Tanque'],
         lineas: ['JUNGLE'],
-        imagen: '/champions/Reksai.jpg'
+        imagen: '/champions/RekSai.jpg'
     },
     {
         id: 'Rell',
